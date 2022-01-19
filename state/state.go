@@ -1,3 +1,0 @@
-package state
-
-func ViewState...
